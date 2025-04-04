@@ -1,5 +1,5 @@
 DATA SEGMENT
-    M    DB 1              ; 第一个数
+    M    DB 21              ; 第一个数
     N    DB 2              ; 第二个数
     MSG  DB '1 + 2 = $'
     RESULT DB '0$'
